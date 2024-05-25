@@ -48,7 +48,8 @@ This command will start the training process using the configurations specified 
 ## Evaluation
 To evaluate the trained model, use the following command:
 
-``` python evaluate.py --config configs/vit_config.json --checkpoint path/to/checkpoint.pth
+``` bash
+python evaluate.py --config configs/vit_config.json --checkpoint path/to/checkpoint.pth
 ```
 
 ## Resources
