@@ -40,16 +40,16 @@ Vision Transformers are an innovative architecture that utilizes transformers, a
 
 To train the Vision Transformer model from scratch, use the following command:
 
-```bash
+``` bash
 python train.py --config configs/vit_config.json
-
+```
 This command will start the training process using the configurations specified in configs/vit_config.json.
 
 ## Evaluation
 To evaluate the trained model, use the following command:
 
 ``` python evaluate.py --config configs/vit_config.json --checkpoint path/to/checkpoint.pth
-
+```
 
 ## Resources
 
