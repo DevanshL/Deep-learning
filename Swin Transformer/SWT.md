@@ -11,7 +11,7 @@ This repository contains the implementation of the Swin Transformer, a state-of-
 
 The dataset used for training and evaluating the Swin Transformer models can be found at the following Google Drive link:
 
-![Dataset Google Drive Link](https://drive.google.com/drive/folders/19dRMuuGBtguy2JAtmF7JxEE2Mnq241iy)
+[Dataset](https://drive.google.com/drive/folders/19dRMuuGBtguy2JAtmF7JxEE2Mnq241iy)
 
 Please download the dataset and update the appropriate paths in the Jupyter Notebooks.
 
@@ -19,7 +19,7 @@ Please download the dataset and update the appropriate paths in the Jupyter Note
 
 The Swin Transformer architecture follows a hierarchical design, combining local and global attention mechanisms through window partitioning and shifted window partitioning. The architecture diagram is shown below:
 
-![Swin Transformer Architecture]([https://example.com/swin-transformer-architecture.png](https://github.com/DevanshL/Deep-learning/blob/main/Swin%20Transformer/image/swin-transformer.png))
+[Swin Transformer Architecture](https://github.com/DevanshL/Deep-learning/blob/main/Swin%20Transformer/image/swin-transformer.png)
 
 
 ## Usage
