@@ -19,8 +19,7 @@ Please download the dataset and update the appropriate paths in the Jupyter Note
 
 The Swin Transformer architecture follows a hierarchical design, combining local and global attention mechanisms through window partitioning and shifted window partitioning. The architecture diagram is shown below:
 
-[Swin Transformer Architecture](https://github.com/DevanshL/Deep-learning/blob/main/Swin%20Transformer/image/swin-transformer.png)
-
+![Swin Transformer](https://github.com/DevanshL/Deep-learning/blob/main/Swin%20Transformer/image/swin-transformer.png)
 
 ## Usage
 
