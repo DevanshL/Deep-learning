@@ -15,7 +15,7 @@ This repository contains implementations of two types of Generative Adversarial 
 - [Results](#results)
 - [Acknowledgments](#acknowledgments)
 
-  [Generative Adversarial Networks](https://github.com/DevanshL/Deep-learning/blob/main/GAN/Images/GAN.png)
+![GAN](https://github.com/DevanshL/Deep-learning/blob/main/GAN/Images/GAN.png)
 
 
 ## Introduction
